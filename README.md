@@ -1,5 +1,9 @@
 # Personal MiniDox QMK Keymap
 
+![MiniDox Layer 0 — QWERTY](assets/img/layers/layer-0-qwerty.svg)
+
+[View the complete layer reference](assets/img/layers/index.md).
+
 This repository contains a reusable QMK Userspace keymap for a 36-key split
 ergonomic keyboard with a 3x5+3 layout: three rows of five column-staggered
 keys per half, plus three thumb keys per side.

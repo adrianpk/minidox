@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 520" role="img"
+  aria-labelledby="layer-2-title layer-2-description">
+  <title id="layer-2-title">MiniDox layer 2: FUNCTION &amp; NUMPAD</title>
+  <desc id="layer-2-description">Function and numpad layer</desc>
+  <style>
+    text { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #111827; }
+    .kicker { font-size: 12px; font-weight: 600; letter-spacing: 2px; text-anchor: middle; fill: #718096; }
+    .title { font-size: 27px; font-weight: 600; text-anchor: middle; }
+    .key-label { font-weight: 500; text-anchor: middle; dominant-baseline: middle; }
+    .key-sub { font-size: 8px; font-weight: 600; letter-spacing: 0.4px; text-anchor: middle; fill: #667085; }
+    .half-label { font-size: 10px; font-weight: 600; letter-spacing: 1.5px; text-anchor: middle; fill: #718096; }
+    .legend-label { font-size: 11px; fill: #667085; }
+  </style>
+  <text x="560" y="28" class="kicker">MINIDOX · 3×5+3</text>
+  <text x="560" y="66" class="title">LAYER 2 · FUNCTION &amp; NUMPAD</text>
+  <rect x="70" y="144" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="99.0" y="172.0" class="key-label" font-size="17">F1</text>
+  <rect x="710" y="142" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="739.0" y="170.0" class="key-label" font-size="17">F6</text>
+  <rect x="138" y="130" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="167.0" y="158.0" class="key-label" font-size="17">F2</text>
+  <rect x="778" y="128" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="151.0" class="key-label" font-size="17">7</text>
+<text x="807.0" y="168.0" class="key-sub">NUM</text>
+  <rect x="206" y="120" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="235.0" y="148.0" class="key-label" font-size="17">F3</text>
+  <rect x="846" y="120" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="143.0" class="key-label" font-size="17">8</text>
+<text x="875.0" y="160.0" class="key-sub">NUM</text>
+  <rect x="274" y="128" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="303.0" y="156.0" class="key-label" font-size="17">F4</text>
+  <rect x="914" y="130" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="153.0" class="key-label" font-size="17">9</text>
+<text x="943.0" y="170.0" class="key-sub">NUM</text>
+  <rect x="342" y="142" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="170.0" class="key-label" font-size="17">F5</text>
+  <rect x="982" y="144" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="167.0" class="key-label" font-size="17">−</text>
+<text x="1011.0" y="184.0" class="key-sub">NUM</text>
+  <rect x="70" y="208" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="99.0" y="236.0" class="key-label" font-size="17">F7</text>
+  <rect x="710" y="206" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="739.0" y="234.0" class="key-label" font-size="17">F12</text>
+  <rect x="138" y="194" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="167.0" y="222.0" class="key-label" font-size="17">F8</text>
+  <rect x="778" y="192" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="215.0" class="key-label" font-size="17">4</text>
+<text x="807.0" y="232.0" class="key-sub">NUM</text>
+  <rect x="206" y="184" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="235.0" y="212.0" class="key-label" font-size="17">F9</text>
+  <rect x="846" y="184" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="207.0" class="key-label" font-size="17">5</text>
+<text x="875.0" y="224.0" class="key-sub">NUM</text>
+  <rect x="274" y="192" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="303.0" y="220.0" class="key-label" font-size="17">F10</text>
+  <rect x="914" y="194" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="217.0" class="key-label" font-size="17">6</text>
+<text x="943.0" y="234.0" class="key-sub">NUM</text>
+  <rect x="342" y="206" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="234.0" class="key-label" font-size="17">F11</text>
+  <rect x="982" y="208" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="231.0" class="key-label" font-size="17">+</text>
+<text x="1011.0" y="248.0" class="key-sub">NUM</text>
+  <rect x="70" y="272" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="99.0" y="295.0" class="key-label" font-size="17">/</text>
+<text x="99.0" y="312.0" class="key-sub">NUM</text>
+  <rect x="710" y="270" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="739.0" y="298.0" class="key-label" font-size="17">PrtSc</text>
+  <rect x="138" y="258" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="167.0" y="281.0" class="key-label" font-size="17">*</text>
+<text x="167.0" y="298.0" class="key-sub">NUM</text>
+  <rect x="778" y="256" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="279.0" class="key-label" font-size="17">1</text>
+<text x="807.0" y="296.0" class="key-sub">NUM</text>
+  <rect x="206" y="248" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="235.0" y="271.0" class="key-label" font-size="17">−</text>
+<text x="235.0" y="288.0" class="key-sub">NUM</text>
+  <rect x="846" y="248" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="271.0" class="key-label" font-size="17">2</text>
+<text x="875.0" y="288.0" class="key-sub">NUM</text>
+  <rect x="274" y="256" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="303.0" y="279.0" class="key-label" font-size="17">+</text>
+<text x="303.0" y="296.0" class="key-sub">NUM</text>
+  <rect x="914" y="258" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="281.0" class="key-label" font-size="17">3</text>
+<text x="943.0" y="298.0" class="key-sub">NUM</text>
+  <rect x="342" y="270" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="298.0" class="key-label" font-size="17">Ins</text>
+  <rect x="982" y="272" width="58" height="54" rx="8" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="295.0" class="key-label" font-size="17">=</text>
+<text x="1011.0" y="312.0" class="key-sub">NUM</text>
+  <rect x="206" y="348" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="235.0" y="376.0" class="key-label" font-size="17">Shift</text>
+  <rect x="274" y="348" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="303.0" y="376.0" class="key-label" font-size="17">Ctrl</text>
+  <rect x="342" y="348" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="376.0" class="key-label" font-size="17">Space</text>
+  <rect x="710" y="348" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="739.0" y="376.0" class="key-label" font-size="17">Bksp</text>
+  <rect x="778" y="348" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="376.0" class="key-label" font-size="17">Enter</text>
+  <rect x="846" y="348" width="58" height="54" rx="8" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="371.0" class="key-label" font-size="17">Esc</text>
+<text x="875.0" y="388.0" class="key-sub">HOLD L4</text>
+  <text x="274" y="440" class="half-label">LEFT HALF</text>
+  <text x="778" y="440" class="half-label">RIGHT HALF</text>
+  <rect x="265.5" y="480" width="12" height="12" rx="3" fill="#d1d5db" stroke="#8b8f97" stroke-width="1"/>
+<text x="284.5" y="490" class="legend-label">Function keys</text>
+<rect x="406.5" y="480" width="12" height="12" rx="3" fill="#b9dfc5" stroke="#8b8f97" stroke-width="1"/>
+<text x="425.5" y="490" class="legend-label">Numpad</text>
+<rect x="498.5" y="480" width="12" height="12" rx="3" fill="#acd0ed" stroke="#8b8f97" stroke-width="1"/>
+<text x="517.5" y="490" class="legend-label">System keys</text>
+<rect x="625.5" y="480" width="12" height="12" rx="3" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1"/>
+<text x="644.5" y="490" class="legend-label">Modifiers</text>
+<rect x="738.5" y="480" width="12" height="12" rx="3" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1"/>
+<text x="757.5" y="490" class="legend-label">Layer access</text>
+</svg>
