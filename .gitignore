@@ -1,0 +1,16 @@
+# Editor files
+*.bak
+*.swp
+*~
+.DS_Store
+._*
+
+# Firmware files
+*.hex
+*.bin
+*.uf2
+
+# Build tooling
+compile_commands.json
+.clangd/
+.cache/
