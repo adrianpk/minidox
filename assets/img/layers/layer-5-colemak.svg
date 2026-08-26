@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 520" role="img"
+  aria-labelledby="layer-5-title layer-5-description">
+  <title id="layer-5-title">MiniDox layer 5: COLEMAK</title>
+  <desc id="layer-5-description">Colemak typing layer</desc>
+  <style>
+    text { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #111827; }
+    .kicker { font-size: 12px; font-weight: 600; letter-spacing: 2px; text-anchor: middle; fill: #718096; }
+    .title { font-size: 27px; font-weight: 600; text-anchor: middle; }
+    .key-label { font-weight: 500; text-anchor: middle; dominant-baseline: middle; }
+    .key-sub { font-size: 8px; font-weight: 600; letter-spacing: 0.4px; text-anchor: middle; fill: #667085; }
+    .half-label { font-size: 10px; font-weight: 600; letter-spacing: 1.5px; text-anchor: middle; fill: #718096; }
+    .legend-label { font-size: 11px; fill: #667085; }
+  </style>
+  <text x="560" y="28" class="kicker">MINIDOX · 3×5+3</text>
+  <text x="560" y="66" class="title">LAYER 5 · COLEMAK</text>
+  <rect x="70" y="144" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="99.0" y="172.0" class="key-label" font-size="17">Q</text>
+  <rect x="710" y="142" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="739.0" y="170.0" class="key-label" font-size="17">J</text>
+  <rect x="138" y="130" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="167.0" y="158.0" class="key-label" font-size="17">W</text>
+  <rect x="778" y="128" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="156.0" class="key-label" font-size="17">L</text>
+  <rect x="206" y="120" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="235.0" y="148.0" class="key-label" font-size="17">F</text>
+  <rect x="846" y="120" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="148.0" class="key-label" font-size="17">U</text>
+  <rect x="274" y="128" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="303.0" y="156.0" class="key-label" font-size="17">P</text>
+  <rect x="914" y="130" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="158.0" class="key-label" font-size="17">Y</text>
+  <rect x="342" y="142" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="170.0" class="key-label" font-size="17">G</text>
+  <rect x="982" y="144" width="58" height="54" rx="8" fill="#c4b5d4" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="172.0" class="key-label" font-size="17">;</text>
+  <rect x="70" y="208" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="99.0" y="236.0" class="key-label" font-size="17">A</text>
+  <rect x="710" y="206" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="739.0" y="234.0" class="key-label" font-size="17">H</text>
+  <rect x="138" y="194" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="167.0" y="222.0" class="key-label" font-size="17">R</text>
+  <rect x="778" y="192" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="220.0" class="key-label" font-size="17">N</text>
+  <rect x="206" y="184" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="235.0" y="212.0" class="key-label" font-size="17">S</text>
+  <rect x="846" y="184" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="212.0" class="key-label" font-size="17">E</text>
+  <rect x="274" y="192" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="303.0" y="220.0" class="key-label" font-size="17">T</text>
+  <rect x="914" y="194" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="222.0" class="key-label" font-size="17">I</text>
+  <rect x="342" y="206" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="234.0" class="key-label" font-size="17">D</text>
+  <rect x="982" y="208" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="236.0" class="key-label" font-size="17">O</text>
+  <rect x="70" y="272" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="99.0" y="300.0" class="key-label" font-size="17">Z</text>
+  <rect x="710" y="270" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="739.0" y="298.0" class="key-label" font-size="17">K</text>
+  <rect x="138" y="258" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="167.0" y="286.0" class="key-label" font-size="17">X</text>
+  <rect x="778" y="256" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="284.0" class="key-label" font-size="17">M</text>
+  <rect x="206" y="248" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="235.0" y="276.0" class="key-label" font-size="17">C</text>
+  <rect x="846" y="248" width="58" height="54" rx="8" fill="#c4b5d4" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="276.0" class="key-label" font-size="17">,</text>
+  <rect x="274" y="256" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="303.0" y="284.0" class="key-label" font-size="17">V</text>
+  <rect x="914" y="258" width="58" height="54" rx="8" fill="#c4b5d4" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="286.0" class="key-label" font-size="17">.</text>
+  <rect x="342" y="270" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="298.0" class="key-label" font-size="17">B</text>
+  <rect x="982" y="272" width="58" height="54" rx="8" fill="#c4b5d4" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="300.0" class="key-label" font-size="17">/</text>
+  <rect x="206" y="348" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="235.0" y="376.0" class="key-label" font-size="17">Shift</text>
+  <rect x="274" y="348" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="303.0" y="376.0" class="key-label" font-size="17">Ctrl</text>
+  <rect x="342" y="348" width="58" height="54" rx="8" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="371.0" class="key-label" font-size="17">Space</text>
+<text x="371.0" y="388.0" class="key-sub">HOLD L6</text>
+  <rect x="710" y="348" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="739.0" y="376.0" class="key-label" font-size="17">Bksp</text>
+  <rect x="778" y="348" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="376.0" class="key-label" font-size="17">Enter</text>
+  <rect x="846" y="348" width="58" height="54" rx="8" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="371.0" class="key-label" font-size="17">Esc</text>
+<text x="875.0" y="388.0" class="key-sub">HOLD L4</text>
+  <text x="274" y="440" class="half-label">LEFT HALF</text>
+  <text x="778" y="440" class="half-label">RIGHT HALF</text>
+  <rect x="283.0" y="480" width="12" height="12" rx="3" fill="#d1d5db" stroke="#8b8f97" stroke-width="1"/>
+<text x="302.0" y="490" class="legend-label">Letters</text>
+<rect x="382.0" y="480" width="12" height="12" rx="3" fill="#c4b5d4" stroke="#8b8f97" stroke-width="1"/>
+<text x="401.0" y="490" class="legend-label">Punctuation</text>
+<rect x="509.0" y="480" width="12" height="12" rx="3" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1"/>
+<text x="528.0" y="490" class="legend-label">Modifiers</text>
+<rect x="622.0" y="480" width="12" height="12" rx="3" fill="#acd0ed" stroke="#8b8f97" stroke-width="1"/>
+<text x="641.0" y="490" class="legend-label">Editing</text>
+<rect x="721.0" y="480" width="12" height="12" rx="3" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1"/>
+<text x="740.0" y="490" class="legend-label">Layer access</text>
+</svg>
