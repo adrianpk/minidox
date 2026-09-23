@@ -39,10 +39,10 @@
       "KC_SLSH",
       "KC_LSFT",
       "KC_LCTL",
-      "LT(6,KC_SPC)",
+      "LT(5,KC_SPC)",
       "KC_BSPC",
       "KC_ENT",
-      "LT(4,KC_ESC)"
+      "LT(6,KC_ESC)"
     ],
     [
       "KC_1",
@@ -77,10 +77,10 @@
       "KC_SLSH",
       "KC_LSFT",
       "KC_LCTL",
-      "LT(6,KC_SPC)",
+      "LT(5,KC_SPC)",
       "KC_BSPC",
       "KC_ENT",
-      "LT(4,KC_ESC)"
+      "LT(6,KC_ESC)"
     ],
     [
       "KC_F1",
@@ -115,10 +115,10 @@
       "KC_PEQL",
       "KC_LSFT",
       "KC_LCTL",
-      "LT(6,KC_SPC)",
+      "LT(5,KC_SPC)",
       "KC_BSPC",
       "KC_ENT",
-      "LT(4,KC_ESC)"
+      "LT(6,KC_ESC)"
     ],
     [
       "KC_MUTE",
@@ -153,48 +153,10 @@
       "RALT(KC_6)",
       "KC_LSFT",
       "KC_LCTL",
-      "LT(6,KC_SPC)",
+      "LT(5,KC_SPC)",
       "KC_BSPC",
       "KC_ENT",
-      "LT(4,KC_ESC)"
-    ],
-    [
-      "DF(0)",
-      "DF(1)",
-      "DF(2)",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "DF(0)",
-      "DF(1)",
-      "DF(2)",
-      "DF(3)",
-      "DF(4)",
-      "DF(5)",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "DF(3)",
-      "DF(4)",
-      "DF(5)",
-      "LT(4,KC_ESC)",
-      "DF(0)",
-      "DF(1)",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "DF(0)",
-      "DF(1)",
-      "LT(4,KC_ESC)",
-      "KC_LSFT",
-      "KC_LCTL",
-      "LT(6,KC_SPC)",
-      "KC_BSPC",
-      "KC_ENT",
-      "LT(4,KC_ESC)"
+      "LT(6,KC_ESC)"
     ],
     [
       "KC_Q",
@@ -229,10 +191,10 @@
       "KC_SLSH",
       "KC_LSFT",
       "KC_LCTL",
-      "LT(6,KC_SPC)",
+      "LT(5,KC_SPC)",
       "KC_BSPC",
       "KC_ENT",
-      "LT(4,KC_ESC)"
+      "LT(6,KC_ESC)"
     ],
     [
       "KC_F13",
@@ -270,7 +232,45 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO"
+      "LT(6,KC_ESC)"
+    ],
+    [
+      "DF(0)",
+      "DF(1)",
+      "DF(2)",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "DF(0)",
+      "DF(1)",
+      "DF(2)",
+      "DF(3)",
+      "DF(5)",
+      "DF(4)",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "DF(3)",
+      "DF(5)",
+      "DF(4)",
+      "LT(6,KC_ESC)",
+      "DF(0)",
+      "DF(1)",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "DF(0)",
+      "DF(1)",
+      "LT(6,KC_ESC)",
+      "KC_LSFT",
+      "KC_LCTL",
+      "LT(5,KC_SPC)",
+      "KC_BSPC",
+      "KC_ENT",
+      "LT(6,KC_ESC)"
     ]
   ]
 }

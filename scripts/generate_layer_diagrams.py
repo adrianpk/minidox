@@ -72,17 +72,6 @@ LAYER_METADATA = {
         ],
     },
     4: {
-        "slug": "layer-selector",
-        "title": "LAYER SELECTOR",
-        "summary": "Default layer selector",
-        "legend": [
-            ("layer", "Layer selection"),
-            ("modifier", "Modifiers"),
-            ("action", "Editing"),
-            ("empty", "Unassigned"),
-        ],
-    },
-    5: {
         "slug": "colemak",
         "title": "COLEMAK",
         "summary": "Colemak typing layer",
@@ -94,12 +83,23 @@ LAYER_METADATA = {
             ("layer", "Layer access"),
         ],
     },
-    6: {
+    5: {
         "slug": "extended-function-keys",
         "title": "EXTENDED FUNCTION KEYS",
         "summary": "Extended function keys for host-defined shortcuts",
         "legend": [
             ("primary", "Function keys"),
+            ("empty", "Unassigned"),
+        ],
+    },
+    6: {
+        "slug": "layer-selector",
+        "title": "LAYER SELECTOR",
+        "summary": "Default layer selector",
+        "legend": [
+            ("layer", "Layer selection"),
+            ("modifier", "Modifiers"),
+            ("action", "Editing"),
             ("empty", "Unassigned"),
         ],
     },
@@ -377,6 +377,14 @@ def generate_svg(layer_number: int, keys: list[str]) -> str:
 
 def main() -> None:
     keymap = json.loads(KEYMAP_PATH.read_text(encoding="utf-8"))
+    expected_escape = "LT(6,KC_ESC)"
+    for layer_number in LAYER_METADATA:
+        actual_escape = keymap["layers"][layer_number][35]
+        if actual_escape != expected_escape:
+            raise ValueError(
+                f"Layer {layer_number} must map Esc to {expected_escape}, got {actual_escape}"
+            )
+
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     for layer_number, metadata in LAYER_METADATA.items():

@@ -77,16 +77,14 @@
 <text x="235.0" y="376.0" class="key-label" font-size="17">Shift</text>
   <rect x="274" y="348" width="58" height="54" rx="8" fill="#aeb0ec" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="303.0" y="376.0" class="key-label" font-size="17">Ctrl</text>
-  <rect x="342" y="348" width="58" height="54" rx="8" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="371.0" y="371.0" class="key-label" font-size="17">Space</text>
-<text x="371.0" y="388.0" class="key-sub">HOLD L6</text>
+  <rect x="342" y="348" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="371.0" y="376.0" class="key-label" font-size="12">LT(5,KC_SPC)</text>
   <rect x="710" y="348" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="739.0" y="376.0" class="key-label" font-size="17">Bksp</text>
   <rect x="778" y="348" width="58" height="54" rx="8" fill="#acd0ed" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="807.0" y="376.0" class="key-label" font-size="17">Enter</text>
-  <rect x="846" y="348" width="58" height="54" rx="8" fill="#fcf7a8" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="875.0" y="371.0" class="key-label" font-size="17">Esc</text>
-<text x="875.0" y="388.0" class="key-sub">HOLD L4</text>
+  <rect x="846" y="348" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="376.0" class="key-label" font-size="12">LT(6,KC_ESC)</text>
   <text x="274" y="440" class="half-label">LEFT HALF</text>
   <text x="778" y="440" class="half-label">RIGHT HALF</text>
   <rect x="283.0" y="480" width="12" height="12" rx="3" fill="#d1d5db" stroke="#8b8f97" stroke-width="1"/>

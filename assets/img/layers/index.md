@@ -18,17 +18,17 @@ These diagrams are generated from the current QMK keymap.
 
 ![Layer 3 — Media and navigation](layer-3-media-navigation.svg)
 
-## Layer 4 — Layer selector
+## Layer 4 — Colemak
 
-![Layer 4 — Layer selector](layer-4-layer-selector.svg)
+![Layer 4 — Colemak](layer-4-colemak.svg)
 
-## Layer 5 — Colemak
+## Layer 5 — Extended function keys
 
-![Layer 5 — Colemak](layer-5-colemak.svg)
+![Layer 5 — Extended function keys](layer-5-extended-function-keys.svg)
 
-## Layer 6 — Extended function keys
+## Layer 6 — Layer selector
 
-![Layer 6 — Extended function keys](layer-6-extended-function-keys.svg)
+![Layer 6 — Layer selector](layer-6-layer-selector.svg)
 
 The `F13`–`F24` block is repeated on both halves for host-defined shortcuts.
 The configured desktop host maps these positions to virtual desktops 1–12.
