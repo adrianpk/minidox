@@ -41,7 +41,7 @@ selector. Tapping `Space` sends a normal space; holding it activates layer 6.
 | 3 | Media and navigation | Mute, volume, brightness, Home, End, Insert, Delete, Page Up, Page Down, Print Screen, Scroll Lock, and programming symbols tuned for a Latin American host layout |
 | 4 | Layer selector | Selects layers 0–5 with `DF(0)` through `DF(5)` |
 | 5 | Colemak | Standard Colemak letters with the same punctuation and thumb keys as QWERTY |
-| 6 | Extended function keys | `F13`–`F24` arranged as a left-hand 3×4 block for host-defined shortcuts |
+| 6 | Extended function keys | `F13`–`F24` repeated as left- and right-hand 3×4 blocks for host-defined shortcuts |
 
 The two typing layouts are:
 
@@ -66,12 +66,13 @@ The same selector is repeated on the three rightmost keys of the right half.
 Selecting a layer with `DF(n)` makes it the active default layer. Use the same
 sequence to switch again.
 
-Hold the left `Space / Layer 6` thumb key to access the extended function keys:
+Hold the left `Space / Layer 6` thumb key to access the extended function keys
+from either hand:
 
 ```text
-F13  F14  F15  F16   → host shortcuts 1–4
-F17  F18  F19  F20   → host shortcuts 5–8
-F21  F22  F23  F24   → host shortcuts 9–12
+F13  F14  F15  F16       F13  F14  F15  F16   → host shortcuts 1–4
+F17  F18  F19  F20       F17  F18  F19  F20   → host shortcuts 5–8
+F21  F22  F23  F24       F21  F22  F23  F24   → host shortcuts 9–12
 ```
 
 On the configured desktop host, these shortcuts select virtual desktops 1–12.

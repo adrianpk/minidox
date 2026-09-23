@@ -30,8 +30,8 @@ These diagrams are generated from the current QMK keymap.
 
 ![Layer 6 — Extended function keys](layer-6-extended-function-keys.svg)
 
-The `F13`–`F24` block is available for host-defined shortcuts. The configured
-desktop host maps these positions to virtual desktops 1–12.
+The `F13`–`F24` block is repeated on both halves for host-defined shortcuts.
+The configured desktop host maps these positions to virtual desktops 1–12.
 
 ## Regenerating
 

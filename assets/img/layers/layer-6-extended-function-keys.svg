@@ -19,60 +19,60 @@
 <text x="739.0" y="170.0" class="key-label" font-size="17">—</text>
   <rect x="138" y="130" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="167.0" y="158.0" class="key-label" font-size="17">F14</text>
-  <rect x="778" y="128" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="807.0" y="156.0" class="key-label" font-size="17">—</text>
+  <rect x="778" y="128" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="156.0" class="key-label" font-size="17">F13</text>
   <rect x="206" y="120" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="235.0" y="148.0" class="key-label" font-size="17">F15</text>
-  <rect x="846" y="120" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="875.0" y="148.0" class="key-label" font-size="17">—</text>
+  <rect x="846" y="120" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="148.0" class="key-label" font-size="17">F14</text>
   <rect x="274" y="128" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="303.0" y="156.0" class="key-label" font-size="17">F16</text>
-  <rect x="914" y="130" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="943.0" y="158.0" class="key-label" font-size="17">—</text>
+  <rect x="914" y="130" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="158.0" class="key-label" font-size="17">F15</text>
   <rect x="342" y="142" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="371.0" y="170.0" class="key-label" font-size="17">—</text>
-  <rect x="982" y="144" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="1011.0" y="172.0" class="key-label" font-size="17">—</text>
+  <rect x="982" y="144" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="172.0" class="key-label" font-size="17">F16</text>
   <rect x="70" y="208" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="99.0" y="236.0" class="key-label" font-size="17">F17</text>
   <rect x="710" y="206" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="739.0" y="234.0" class="key-label" font-size="17">—</text>
   <rect x="138" y="194" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="167.0" y="222.0" class="key-label" font-size="17">F18</text>
-  <rect x="778" y="192" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="807.0" y="220.0" class="key-label" font-size="17">—</text>
+  <rect x="778" y="192" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="220.0" class="key-label" font-size="17">F17</text>
   <rect x="206" y="184" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="235.0" y="212.0" class="key-label" font-size="17">F19</text>
-  <rect x="846" y="184" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="875.0" y="212.0" class="key-label" font-size="17">—</text>
+  <rect x="846" y="184" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="212.0" class="key-label" font-size="17">F18</text>
   <rect x="274" y="192" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="303.0" y="220.0" class="key-label" font-size="17">F20</text>
-  <rect x="914" y="194" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="943.0" y="222.0" class="key-label" font-size="17">—</text>
+  <rect x="914" y="194" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="222.0" class="key-label" font-size="17">F19</text>
   <rect x="342" y="206" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="371.0" y="234.0" class="key-label" font-size="17">—</text>
-  <rect x="982" y="208" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="1011.0" y="236.0" class="key-label" font-size="17">—</text>
+  <rect x="982" y="208" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="236.0" class="key-label" font-size="17">F20</text>
   <rect x="70" y="272" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="99.0" y="300.0" class="key-label" font-size="17">F21</text>
   <rect x="710" y="270" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="739.0" y="298.0" class="key-label" font-size="17">—</text>
   <rect x="138" y="258" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="167.0" y="286.0" class="key-label" font-size="17">F22</text>
-  <rect x="778" y="256" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="807.0" y="284.0" class="key-label" font-size="17">—</text>
+  <rect x="778" y="256" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="807.0" y="284.0" class="key-label" font-size="17">F21</text>
   <rect x="206" y="248" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="235.0" y="276.0" class="key-label" font-size="17">F23</text>
-  <rect x="846" y="248" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="875.0" y="276.0" class="key-label" font-size="17">—</text>
+  <rect x="846" y="248" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="875.0" y="276.0" class="key-label" font-size="17">F22</text>
   <rect x="274" y="256" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="303.0" y="284.0" class="key-label" font-size="17">F24</text>
-  <rect x="914" y="258" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="943.0" y="286.0" class="key-label" font-size="17">—</text>
+  <rect x="914" y="258" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="943.0" y="286.0" class="key-label" font-size="17">F23</text>
   <rect x="342" y="270" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="371.0" y="298.0" class="key-label" font-size="17">—</text>
-  <rect x="982" y="272" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
-<text x="1011.0" y="300.0" class="key-label" font-size="17">—</text>
+  <rect x="982" y="272" width="58" height="54" rx="8" fill="#d1d5db" stroke="#8b8f97" stroke-width="1.2"/>
+<text x="1011.0" y="300.0" class="key-label" font-size="17">F24</text>
   <rect x="206" y="348" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
 <text x="235.0" y="376.0" class="key-label" font-size="17">—</text>
   <rect x="274" y="348" width="58" height="54" rx="8" fill="#f3f4f6" stroke="#8b8f97" stroke-width="1.2"/>
