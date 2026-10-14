@@ -59,7 +59,7 @@ keys on the left half:
 
 ```text
 Top row:   Layer 0  Layer 1  Layer 2
-Home row:  Layer 3  Layer 5  Layer 4
+Home row:  Layer 3  Layer 4  Layer 5
 ```
 
 The same selector is repeated on the three rightmost keys of the right half.
