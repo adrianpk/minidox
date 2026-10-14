@@ -171,7 +171,7 @@ THUMB_KEYS = {
     "KC_SPC": ("Space", "", "action"),
     "LT(6,KC_SPC)": ("Space", "HOLD L6", "layer"),
     "KC_BSPC": ("Bksp", "", "action"),
-    "KC_ENT": ("Enter", "", "action"),
+    "LALT_T(KC_ENT)": ("Enter", "HOLD ALT", "modifier"),
     "LT(4,KC_ESC)": ("Esc", "HOLD L4", "layer"),
 }
 

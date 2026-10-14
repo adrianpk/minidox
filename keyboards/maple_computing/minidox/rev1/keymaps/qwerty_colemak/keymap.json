@@ -41,7 +41,7 @@
       "KC_LCTL",
       "LT(5,KC_SPC)",
       "KC_BSPC",
-      "KC_ENT",
+      "LALT_T(KC_ENT)",
       "LT(6,KC_ESC)"
     ],
     [
@@ -79,7 +79,7 @@
       "KC_LCTL",
       "LT(5,KC_SPC)",
       "KC_BSPC",
-      "KC_ENT",
+      "LALT_T(KC_ENT)",
       "LT(6,KC_ESC)"
     ],
     [
@@ -117,7 +117,7 @@
       "KC_LCTL",
       "LT(5,KC_SPC)",
       "KC_BSPC",
-      "KC_ENT",
+      "LALT_T(KC_ENT)",
       "LT(6,KC_ESC)"
     ],
     [
@@ -155,7 +155,7 @@
       "KC_LCTL",
       "LT(5,KC_SPC)",
       "KC_BSPC",
-      "KC_ENT",
+      "LALT_T(KC_ENT)",
       "LT(6,KC_ESC)"
     ],
     [
@@ -193,7 +193,7 @@
       "KC_LCTL",
       "LT(5,KC_SPC)",
       "KC_BSPC",
-      "KC_ENT",
+      "LALT_T(KC_ENT)",
       "LT(6,KC_ESC)"
     ],
     [
@@ -269,7 +269,7 @@
       "KC_LCTL",
       "LT(5,KC_SPC)",
       "KC_BSPC",
-      "KC_ENT",
+      "LALT_T(KC_ENT)",
       "LT(6,KC_ESC)"
     ]
   ]

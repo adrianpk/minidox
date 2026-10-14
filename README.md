@@ -25,11 +25,12 @@ The thumb keys stay consistent across the typing layers:
 
 ```text
 Left:  Shift  Control  Space / Layer 5
-Right: Backspace  Enter  Esc / Layer 6
+Right: Backspace  Enter / Alt  Esc / Layer 6
 ```
 
 Tapping the far-right thumb key sends `Escape`. Holding it activates the layer
 selector. Tapping `Space` sends a normal space; holding it activates layer 5.
+Tapping `Enter / Alt` sends `Enter`; holding it sends left `Alt`.
 
 ## Layers
 
